@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on QIHAO-TANG</title>
+    <link>https://qihaotom.github.io/home/</link>
+    <description>Recent content in Homes on QIHAO-TANG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://qihaotom.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://qihaotom.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/about/</guid>
+      <description>About Qihao Tang is a graduate student in the department of public administration at School of Government, Nanjing University. His research interests include Public Management &amp;amp; Policy, Public Organization Theories and Anti-Corruption Studies.
+南京大学政府管理学院行政管理系硕士研究生</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://qihaotom.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/publications_selected/</guid>
+      <description>[1] 汤淇皓. 行政审批局模式的改革实践与发展路径——以南京江北新区为例[J]. 中共南京市委党校学报, 2017(6):70-75.
+[2] 杨璐璐, 汤淇皓. 中国城市社区社会资本提升的逻辑与策略——基于杭州市D社区的案例[J]. 重庆理工大学学报:社会科学版, 2017, 31(2):42-49.</description>
+    </item>
+    
+    <item>
+      <title>Social Activities</title>
+      <link>https://qihaotom.github.io/home/social-activities/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/social-activities/</guid>
+      <description>中国矿业大学（北京）英语系助理, 2013
+西安交通大学廉洁领袖夏令营, 2014；中山大学廉洁领袖夏令营, 2015
+廉洁大使, 2015 （中国管理现代化研究会廉政建设与治理研究专业委员会）</description>
+    </item>
+    
+    <item>
+      <title>Rewards</title>
+      <link>https://qihaotom.github.io/home/rewards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/rewards/</guid>
+      <description>国家奖学金；中国矿业大学（北京）特等奖学金, 2015
+优秀本科生国际交流项目（CSC）, 2016
+南京大学政府管理学院夏令营；中国政法大学政治与公共管理学院夏令营；中国人民大学教育学院夏令营, 2017</description>
+    </item>
+    
+    <item>
+      <title>Who I am</title>
+      <link>https://qihaotom.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/posts/</guid>
+      <description>浙江杭州人（1994—）
+Crashing on Social Science Reserach
+Focus on using Ecnometricx, Python to explain and share the insights of the world</description>
+    </item>
+    
+    <item>
+      <title>Study Background</title>
+      <link>https://qihaotom.github.io/home/study-background/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/study-background/</guid>
+      <description>北京大学人口所社会科学研究方法暑期班, 2017
+北京大学社会研究中心与北京大学－密歇根大学学院暑期课程, 2017
+南京大学社会学院人文社会科学大数据及量化分析前沿, 2018</description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>https://qihaotom.github.io/home/costom-section/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/costom-section/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Traveling Bootstrap</title>
+      <link>https://qihaotom.github.io/home/traveling-bootstrap/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/traveling-bootstrap/</guid>
+      <description>2013 天津 北京 武汉 上海 南京
+2014 承德 银川 呼和浩特 保定 西安 台北 高雄 台中 垦丁
+2015 哈尔滨 长春 南昌 广州 深圳 香港 澳门 长沙 北戴河
+2016 大连 烟台 青岛 泰山 长岛
+2017 Austin Houston, Texas | Little Rock, Arkansas | Pensacola, Florida</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://qihaotom.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://qihaotom.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
